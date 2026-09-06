@@ -28,7 +28,7 @@ An automated Telegram listener and notification forwarder built with Node.js, [G
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Debugcodec/Tgscrap.git](https://github.com/Debugcodec/Tgscrap.git)
+   git clone https://github.com/Debugcodec/Tgscrap.git
    cd Tgscrap
    ```
 2.  **Install dependencies:**
